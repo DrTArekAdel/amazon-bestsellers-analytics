@@ -29,11 +29,11 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 This is 2009–2019 aggregate list data with no unit sales, revenue, or return figures — "bestseller" here reflects rank on Amazon's list, not sales volume, and rating counts can be skewed by a book's time on the list.
 
 ## Files
-- `Amazon Final.ipynb` — full analysis notebook
+- `amazon-bestsellers-analytics.ipynb` — full analysis notebook
 - `bestsellers with categories.csv` — source data ([Kaggle: Amazon Top 50 Bestselling Books 2009–2019](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019))
 
 ## How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
-jupyter notebook "Amazon Final.ipynb"
+jupyter notebook "amazon-bestsellers-analytics.ipynb"
 ```
